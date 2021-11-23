@@ -1,0 +1,20 @@
+{
+  "todoList": [
+    {
+      "id": 1,
+      "date": "20/11/2021",
+      "todo": "Intro ReactJS, To do List",
+      "location": "https://www.cnet.com/a/img/YZ5IkSO7Yl-6YNk4d-gIvD-V-9g=/1200x675/2020/06/10/06f2b84a-2241-4567-a2a5-611ebb1e2650/gettyimages-1129377183.jpg",
+      "note": "Prepare VSCode, Node js and CRA, Axios",
+      "status": "Ongoing"
+    },
+    {
+      "date": "2021-11-22",
+      "todo": "Main Basket",
+      "location": "https://picture-origin.rumah123.com/news-content/img/2017/10/16142601/Ill-Studio-Pigalle-e1508138811709.jpg",
+      "note": "Fun Basket",
+      "status": "on going",
+      "id": 3
+    }
+  ]
+}
